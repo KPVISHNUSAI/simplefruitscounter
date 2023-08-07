@@ -31,16 +31,6 @@ Fix the given code to have the following functionality
 
 </details>
 
-### Quick Tips
-
-<details>
-<summary>Click to view</summary>
-<br>
-
-- There are `8` bugs to be fixed to achieve the functionality and the UI that is expected
-
-</details>
-
 ### Resources
 
 <details>
@@ -55,5 +45,3 @@ Fix the given code to have the following functionality
 >
 > - All components you implement should go in the `src/components` directory.
 > - Don't change the component folder names as those are the files being imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
